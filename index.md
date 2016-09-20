@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: Ping X
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
