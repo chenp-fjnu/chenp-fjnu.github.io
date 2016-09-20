@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ping X
+title: Ping XXXX
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
